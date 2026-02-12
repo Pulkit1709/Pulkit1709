@@ -1,5 +1,5 @@
-[[# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable full-stack applications and ML-powered solutions like SportNexus (sports networking platform with recommendation system) and Medimate (AI healthcare assistant). I’m focused on backend APIs, database optimization, and intelligent systems.<br><br>👯 I’m looking to collaborate on<br>Full-stack development projects, AI/ML-based applications, and innovative data-driven platforms that solve real-world problems.<br><br>🤝 I’m looking for help with<br>Advanced system design, scalable architecture, and improving production-level deployment practices for ML-powered applications.<br><br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms, Machine Learning optimization techniques, and building intelligent Agentic AI workflows with modern full-stack integration.<br><br>💬 Ask me about<br>React.js, Node.js, Flask, REST APIs, MongoDB/MySQL, Machine Learning, Data Analysis (Pandas, NumPy), and building end-to-end scalable projects.<br><br>⚡ Fun fact<br>I’m a Dean’s List awardee (CGPA 9.14) who enjoys turning real-world problems into data-driven and AI-powered solutions.
+# 💫 About Me:
+👋 Hi, I'm Pulkit Gambhir<br><br>💻 B.Tech CSE (Data Science) student | Full-Stack Developer | ML Enthusiast<br><br>I’m passionate about building scalable full-stack applications and AI-powered solutions that solve real-world problems. With experience in React.js, Node.js, Flask, and REST APIs, I enjoy developing efficient backend systems and responsive frontends.<br><br>I also work on Machine Learning projects involving data analysis, feature engineering, and predictive modeling using Python, Pandas, NumPy, and Scikit-learn.<br><br>🚀 Currently exploring advanced DSA, system design, and intelligent AI workflows.<br>📈 Always open to collaborating on impactful tech projects.
 
 
 ## 🌐 Socials:
@@ -16,4 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=Pulkit1709&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://www.linkedin.com/in/pulkitgambhir1709/)](https://www.linkedin.com/in/pulkitgambhir1709/)
